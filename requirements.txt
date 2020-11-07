@@ -1,0 +1,8 @@
+insta-scrape
+pymongo
+selenium
+xlrd
+tqdm
+lxml
+
+
